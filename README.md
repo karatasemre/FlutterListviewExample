@@ -1,16 +1,8 @@
-# listview_app
+# Listview Example 
 
-A new Flutter application.
+![1111111](https://user-images.githubusercontent.com/7110339/57514574-783ab200-7319-11e9-94ce-f730bbd32bb4.JPG)
+![2222222](https://user-images.githubusercontent.com/7110339/57514576-783ab200-7319-11e9-9414-315f7a6e2d41.JPG)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Questions?🤔
+Hit me on [![Linkedin](https://img.shields.io/badge/Linkedin-Emre%20Karataş-blue.svg)](https://www.linkedin.com/in/emre-karata%C5%9F-062b26a9/)  [![Facebook](https://img.shields.io/badge/Facebook-Emre%20Karataş-blue.svg)](https://www.facebook.com/emre.karatas.311)
